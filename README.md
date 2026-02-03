@@ -1,126 +1,93 @@
-<!-- ===== Banner (replace later if you want) ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&text=Supakorn%20(Fluke)&fontSize=45&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Thailand%20%F0%9F%87%B9%F0%9F%87%AD&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Supakorn%20(Fluke)&fontSize=50&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Thailand&descAlignY=60&descSize=18&color=gradient" />
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=FlukeSupakorn&label=Profile%20views&color=0e75b6&style=flat" alt="FlukeSupakorn" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FlukeSupakorn&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views" />
 </p>
 
-<table>
-  <tr>
-    <td valign="top" width="58%">
+<br/>
 
-<h3 align="left">Hi 👋, I'm Supakorn (Fluke)</h3>
+<div align="center">
+  
+## 👋 Hi, I'm Supakorn (Fluke)
 
-- 🌱 I’m currently learning **Rust, System Design, Performance Optimization**
-- 🔭 I’m currently working on **KLIN** (AI-powered desktop file organizer)
-- 💬 Ask me about **Full-stack development, Frontend architecture, Database design**
+Software Engineer with experience delivering production features. Experienced in frontend and backend work,  
+with a focus on **clean code**, **reliable integration**, and **troubleshooting**. I've built full stack projects and worked with real  
+enterprise systems, making sure features are **stable**, **easy to maintain**, and work well with other parts of the product. I learn  
+fast, adapt quickly to new tools and environments, and I enjoy taking on new challenges while improving my skills.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="mailto:supakorn.tungpa@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" width="40" height="40" />
-  </a>
-  <a href="https://linkedin.com/in/supakorn-tungpatompramote" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40" />
-  </a>
-  <a href="https://github.com/FlukeSupakorn" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40" />
-  </a>
-</p>
+</div>
 
-<h3 align="left">Featured Projects:</h3>
-<p align="left">
-  <a href="https://github.com/OATZYH/klin" target="_blank" rel="noreferrer">KLIN</a> ·
-  <a href="https://github.com/tawayahc/FundFlow" target="_blank" rel="noreferrer">FundFlow</a> ·
-  <a href="https://github.com/tawayahc/onlineshop" target="_blank" rel="noreferrer">Gadget House</a> ·
-  <a href="https://github.com/Narutchai01/Rectack" target="_blank" rel="noreferrer">Rectack</a> ·
-  <a href="https://github.com/FlukeSupakorn/User-Management" target="_blank" rel="noreferrer">User Management</a>
-</p>
+<br/>
 
-    </td>
-    <td valign="top" width="41%">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/coder.gif" width="420" alt="coding" />
-    </td>
-  </tr>
-</table>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- Languages -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-  </a>
-  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="40" height="40"/>
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://dart.dev/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-  </a>
+<div align="center">
+  
+### 📫 Connect with me
 
-  <!-- Frontend -->
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+<p>
+  <a href="mailto:supakorn.tungpa@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+  <a href="https://linkedin.com/in/supakorn-tungpatompramote" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/>
-  </a>
-
-  <!-- Backend / DB / Tools -->
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://tauri.app/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tauri/tauri-original.svg" alt="tauri" width="40" height="40"/>
+  <a href="https://github.com/FlukeSupakorn" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
-<h3 align="left">GitHub Stats</h3>
+</div>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlukeSupakorn&layout=compact&theme=transparent&hide_border=true&cache_seconds=86400" alt="Top languages" />
+---
+
+<div align="center">
+
+### 🚀 Featured Projects
+
+**[KLIN](https://github.com/OATZYH/klin)** • **[FundFlow](https://github.com/tawayahc/FundFlow)** • **[Gadget House](https://github.com/tawayahc/onlineshop)** • **[Rectack](https://github.com/Narutchai01/Rectack)** • **[User Management](https://github.com/FlukeSupakorn/User-Management)**
+
+</div>
+
+---
+
+<div align="center">
+
+### 🛠️ Languages and Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,java,kotlin,rust,cs,postgres,dart" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,nodejs,express,dotnet,mysql" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,git,github,docker,tauri,vscode" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=FlukeSupakorn&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&cache_seconds=86400" alt="GitHub stats" />
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### 📊 GitHub Stats
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FlukeSupakorn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlukeSupakorn&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FlukeSupakorn&theme=tokyonight&hide_border=true" />
+</p>
+
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
