@@ -1,9 +1,21 @@
-<h1 align="center">Hi 👋, I'm Supakorn (Fluke)</h1>
-<h3 align="center">Software Engineer & Full-Stack Developer from Thailand 🇹🇭</h3>
+<!-- ===== Banner (replace later if you want) ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&text=Supakorn%20(Fluke)&fontSize=45&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Thailand%20%F0%9F%87%B9%F0%9F%87%AD&descAlignY=60" />
+</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=FlukeSupakorn&label=Profile%20views&color=0e75b6&style=flat" alt="FlukeSupakorn" />
 </p>
+
+<table>
+  <tr>
+    <td valign="top" width="58%">
+
+<h3 align="left">Hi 👋, I'm Supakorn (Fluke)</h3>
+
+- 🌱 I’m currently learning **Rust, System Design, Performance Optimization**
+- 🔭 I’m currently working on **KLIN** (AI-powered desktop file organizer)
+- 💬 Ask me about **Full-stack development, Frontend architecture, Database design**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,6 +38,8 @@
   <a href="https://github.com/Narutchai01/Rectack" target="_blank" rel="noreferrer">Rectack</a> ·
   <a href="https://github.com/FlukeSupakorn/User-Management" target="_blank" rel="noreferrer">User Management</a>
 </p>
+  </tr>
+</table>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -54,13 +68,10 @@
   <a href="https://dart.dev/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
   </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
 
   <!-- Frontend -->
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
@@ -72,46 +83,41 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/>
   </a>
 
-  <!-- Backend / DB -->
+  <!-- Backend / DB / Tools -->
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
   </a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
   </a>
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
   </a>
-
-  <!-- Tools -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
   </a>
   <a href="https://tauri.app/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tauri/tauri-icon.svg" alt="tauri" width="40" height="40"/>
-  </a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="vite" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tauri/tauri-original.svg" alt="tauri" width="40" height="40"/>
   </a>
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FlukeSupakorn&show_icons=true&locale=en&layout=compact" alt="FlukeSupakorn" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FlukeSupakorn&show_icons=true&locale=en&layout=compact&hide_border=true&cache_seconds=86400" alt="FlukeSupakorn" />
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FlukeSupakorn&show_icons=true&locale=en" alt="FlukeSupakorn" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FlukeSupakorn&show_icons=true&locale=en&hide_border=true&cache_seconds=86400" alt="FlukeSupakorn" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FlukeSupakorn&" alt="FlukeSupakorn" />
+  <img align="center" src="https://streak-stats.demolab.com?user=FlukeSupakorn&hide_border=true" alt="FlukeSupakorn" />
 </p>
