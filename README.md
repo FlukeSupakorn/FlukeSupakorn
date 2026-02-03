@@ -31,7 +31,7 @@ fast, adapt quickly to new tools and environments, and I enjoy taking on new cha
   <a href="mailto:supakorn.tungpa@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://linkedin.com/in/supakorn-tungpatompramote" target="_blank">
+  <a href="https://www.linkedin.com/in/supakorn-tungpa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/FlukeSupakorn" target="_blank">
@@ -63,25 +63,6 @@ fast, adapt quickly to new tools and environments, and I enjoy taking on new cha
   <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,nodejs,express,dotnet,mysql" />
   <br/>
   <img src="https://skillicons.dev/icons?i=mongodb,git,github,docker,tauri,vscode" />
-</p>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-### 📊 GitHub Stats
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FlukeSupakorn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlukeSupakorn&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FlukeSupakorn&theme=tokyonight&hide_border=true" />
 </p>
 
 </div>
