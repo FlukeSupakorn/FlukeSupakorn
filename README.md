@@ -38,6 +38,11 @@
   <a href="https://github.com/Narutchai01/Rectack" target="_blank" rel="noreferrer">Rectack</a> ·
   <a href="https://github.com/FlukeSupakorn/User-Management" target="_blank" rel="noreferrer">User Management</a>
 </p>
+
+    </td>
+    <td valign="top" width="41%">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/coder.gif" width="420" alt="coding" />
+    </td>
   </tr>
 </table>
 
@@ -110,14 +115,12 @@
   </a>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FlukeSupakorn&show_icons=true&locale=en&layout=compact&hide_border=true&cache_seconds=86400" alt="FlukeSupakorn" />
+<h3 align="left">GitHub Stats</h3>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlukeSupakorn&layout=compact&theme=transparent&hide_border=true&cache_seconds=86400" alt="Top languages" />
 </p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FlukeSupakorn&show_icons=true&locale=en&hide_border=true&cache_seconds=86400" alt="FlukeSupakorn" />
-</p>
-
-<p>
-  <img align="center" src="https://streak-stats.demolab.com?user=FlukeSupakorn&hide_border=true" alt="FlukeSupakorn" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=FlukeSupakorn&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&cache_seconds=86400" alt="GitHub stats" />
 </p>
